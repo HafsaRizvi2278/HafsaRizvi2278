@@ -1,4 +1,4 @@
-<h1>Hello World ! 👋</h1>
+<h1> Hi there 👋 It's me Hafsa</h1>
 
 I'm **Hafsa Rizvi**, a Frontend & Backend Developer skilled in **HTML, CSS, JavaScript, PHP, Java, C#,** and a passionate **MERN Stack Enthusiast**. As a fresher and dedicated coder, I’m driven to build impactful, scalable software solutions with a focus on intuitive user experiences.
 <br>
@@ -26,8 +26,13 @@ I'm **Hafsa Rizvi**, a Frontend & Backend Developer skilled in **HTML, CSS, Java
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="git" width="42" height="42" /></a>
 <br>
 <br>
+
 
 <h2>⚡️ Where to find me</h2>
 <br>

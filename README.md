@@ -38,7 +38,7 @@ I'm **Hafsa Rizvi**, a Frontend & Backend Developer skilled in **HTML, CSS, Java
 <br>
 <p>
   
-  <a target="_blank" href="--" style="display: inline-block;">
+  <a target="_blank" href="https://www.linkedin.com/in/hafsa-rizvi-4a3b77348" style="display: inline-block;">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a target="_blank" href="https://www.facebook.com/share/1AapCf5wLn/" style="display: inline-block;">

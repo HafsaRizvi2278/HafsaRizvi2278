@@ -1,4 +1,4 @@
-<h1> Hi there 👋 It's me Hafsa</h1>
+<h1> Hi there <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b> It's me Hafsa</h1>
 
 I'm **Hafsa Rizvi**, a Frontend & Backend Developer skilled in **HTML, CSS, JavaScript, PHP, Java, C#,** and a passionate **MERN Stack Enthusiast**. As a fresher and dedicated coder, I’m driven to build impactful, scalable software solutions with a focus on intuitive user experiences.
 <br>
@@ -49,7 +49,16 @@ I'm **Hafsa Rizvi**, a Frontend & Backend Developer skilled in **HTML, CSS, Java
 
 </p>
 
+<h2>📈 &nbsp;Some Github Stats</h2>
+<span align="left">
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=HafsaRizvi2278&show_icons=true&locale=en&layout=compact" alt /></p>
+  
+![Erick O. Omundi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafsaRizvi2278&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE)
+</span>
+<span align="right">
 
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HafsaRizvi2278&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE)
+</span>
 
 <br>
 

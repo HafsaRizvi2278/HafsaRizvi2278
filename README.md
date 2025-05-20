@@ -65,17 +65,17 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafsaRizvi2278&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE" alt="Hafsa's GitHub Stats"/>
-</p>
+<div align="center"> <!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=HafsaRizvi2278&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Hafsa's GitHub Stats" width="49%" style="display:inline-block; vertical-align:top; margin-right: 1%;" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HafsaRizvi2278&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HafsaRizvi2278&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="49%" style="display:inline-block; vertical-align:top;" />
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafsaRizvi2278&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE" alt="GitHub Streak"/>
-</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HafsaRizvi2278&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- Activity Graph -->
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HafsaRizvi2278&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+
+</div>

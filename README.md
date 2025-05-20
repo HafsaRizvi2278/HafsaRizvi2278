@@ -61,5 +61,3 @@ I'm **Hafsa Rizvi**, a Frontend & Backend Developer skilled in **HTML, CSS, Java
 </span>
 
 <br>
-
-

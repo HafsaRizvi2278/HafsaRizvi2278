@@ -44,6 +44,8 @@ I'm **Hafsa Rizvi**, a Frontend & Backend Developer skilled in **HTML, CSS, Java
   <a target="_blank" href="https://www.facebook.com/share/1AapCf5wLn/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
+    <a href="rizvihafsa100@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 </p>
 

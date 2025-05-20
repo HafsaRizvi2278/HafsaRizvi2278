@@ -76,3 +76,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafsaRizvi2278&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE" alt="GitHub Streak"/>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HafsaRizvi2278&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+

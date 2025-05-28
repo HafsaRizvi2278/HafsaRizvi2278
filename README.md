@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 💻 I’m a **fresher** diving into Frontend & Backend Development, eager to create innovative web applications.
+- 💻 I’m a **fresher** diving into **Frontend & Backend Development**, eager to create innovative web applications.
 - 📚 Constantly learning and exploring **MERN stack**, modern web frameworks, and best coding practices.
 - 🤝 Excited to collaborate on **open-source projects** and creative tech solutions.
 - 💬 Ask me about HTML, CSS, JavaScript, PHP, Java, C#, or the MERN stack!

@@ -68,7 +68,7 @@
 
 ## 🌐 Where to Find Me
 
-🌍 **Portfolio:** [hafsa-rizvi-218k.vercel.app](https://hafsa-rizvi-218k.vercel.app/)
+🌍 **Portfolio:** [hafsa-rizvi.vercel.app](https://hafsa-rizvi.vercel.app/)
 
 💼 **LinkedIn:** [Hafsa Rizvi](https://www.linkedin.com/in/hafsa-rizvi-4a3b77348)
 

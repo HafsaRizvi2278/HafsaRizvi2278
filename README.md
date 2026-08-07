@@ -1,81 +1,92 @@
-<h1 align="center">Hi there <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />, I'm <strong>Hafsa</strong> 👩‍💻</h1>
+<h1 align="center">Hi there <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />, I'm <strong>Hafsa Rizvi</strong> 👩‍💻</h1>
 
 <p align="center">
-  <strong>Frontend & Backend Developer</strong> skilled in 
-<code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, 
-<code>PHP</code>, <code>Java</code>, <code>C#</code> and a passionate 
-<strong>MERN Stack Enthusiast</strong>. As a <strong>fresher</strong> and dedicated coder, I’m driven to build 
-<strong>impactful, scalable software solutions</strong> with a focus on 
-<strong>intuitive user experiences</strong>.
-  
+  <strong>Frontend-focused Software Developer</strong> skilled in
+  <code>React.js</code>, <code>JavaScript</code>, <code>TypeScript</code>,
+  <code>HTML</code>, <code>CSS</code>, <code>Node.js</code>,
+  <code>Express.js</code>, <code>PHP</code>, and <code>MySQL</code>,
+  with hands-on experience building full-stack applications using the
+  <strong>MERN stack</strong>. With <strong>6 months of Software Engineering internship experience</strong>,
+  I’m passionate about creating <strong>responsive, scalable, and user-friendly software solutions</strong>
+  while continuously improving my skills in modern web technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I’m a **fresher** diving into **Frontend & Backend Development**, eager to create innovative web applications.
-- 📚 Constantly learning and exploring **MERN stack**, modern web frameworks, and best coding practices.
-- 🤝 Excited to collaborate on **open-source projects** and creative tech solutions.
-- 💬 Ask me about HTML, CSS, JavaScript, PHP, Java, C#, or the MERN stack!
-- 🎮 Fun fact: I love experimenting with new tools, frameworks, and technologies in my free time.
+- 👩‍💻 I'm an **Early-Career Software Developer** passionate about building modern, responsive, and user-friendly applications.
+- ⚛️ My strongest area is **Frontend Development with React.js, JavaScript & TypeScript**, with hands-on full-stack experience using the **MERN stack**.
+- 💼 Completed **6 months of Software Engineering internship experience**, working with web/mobile development, APIs, databases, debugging, and Git workflows.
+- 🚀 I enjoy turning **ideas and Figma designs into working applications** and deploying projects that people can actually use.
+- 🌱 Currently exploring **Next.js, testing, cloud technologies, DevOps, and AI-powered applications**.
+- 🤝 Interested in collaborating on **open-source projects, SaaS products, and innovative web applications**.
+- 💬 Ask me about **React, JavaScript, TypeScript, Node.js, Express.js, MongoDB, PHP, MySQL, Java, or Flutter**.
+- ✨ Fun fact: I love experimenting with new technologies and turning what I learn into real projects.
 
 ---
 
 ## 🧰 Languages and Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="42" height="42"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="42" height="42"/>
-  <img src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse" width="42" height="42"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="42" height="42"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="42" height="42"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
-</p>
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+![C%23](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
 
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=fastapi)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 ## 🌐 Where to Find Me
 
-<p>
-  <a href="https://www.linkedin.com/in/hafsa-rizvi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/share/1AapCf5wLn/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:rizvihafsa100@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+🌍 **Portfolio:** [hafsa-rizvi-218k.vercel.app](https://hafsa-rizvi-218k.vercel.app/)
+
+💼 **LinkedIn:** [Hafsa Rizvi](https://www.linkedin.com/in/hafsa-rizvi-4a3b77348)
+
+💻 **GitHub:** [HafsaRizvi2278](https://github.com/HafsaRizvi2278)
+
+📧 **Email:** [rizvihafsa100@gmail.com](mailto:rizvihafsa100@gmail.com)
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center"> <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=HafsaRizvi2278&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Hafsa's GitHub Stats" width="49%" style="display:inline-block; vertical-align:top; margin-right: 1%;" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HafsaRizvi2278&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaRizvi2278&layout=compact&hide_border=true" height="165" />
+</p>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HafsaRizvi2278&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="49%" style="display:inline-block; vertical-align:top;" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HafsaRizvi2278&hide_border=true" />
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafsaRizvi2278&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE" alt="GitHub Streak"/>
-
-
-<!-- Activity Graph -->
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HafsaRizvi2278&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-
-</div>
+---

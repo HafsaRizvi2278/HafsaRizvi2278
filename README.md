@@ -83,6 +83,7 @@ const hafsa = {
 
   currentlyExploring: [
     "Next.js",
+    "PostgreSql",
     "Software Testing",
     "Cloud & DevOps"
   ],
